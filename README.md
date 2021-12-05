@@ -1,1 +1,2 @@
-# JFrame-app
+Jframe app.
+Creatot: ivanselez00
